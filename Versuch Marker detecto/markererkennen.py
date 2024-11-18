@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Video path
-video_path = "marker weiss.mp4"
+video_path = "Versuch Marker detecto\marker weiss.mp4"
 
 # Load video
 cap = cv2.VideoCapture(video_path)
